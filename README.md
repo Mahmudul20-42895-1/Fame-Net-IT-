@@ -42,14 +42,3 @@ MD. Mahmudul Hasan
 Network Engineer | Fame Net IT
 
 📍 Dhaka, Bangladesh
-
-
-### ব্যবহারের ছোট্ট টিপস:
-* **কোড ব্লকের ডানদিকে ওপরের "Copy" বাটনে** ক্লিক করে পুরো টেক্সটটি কপি করে নিন।
-* আপনার গিটহাব রিপোজিটরিতে গিয়ে `README.md` ফাইল তৈরি বা এডিট করে এটি পেস্ট করুন।
-* ফোল্ডার স্ট্রাকচারের নামগুলো আপনি আপনার কাজের ধরন অনুযায়ী পরে পরিবর্তন বা নতুন ফোল্ডার যোগ করতে পারবেন।
-
-<ElicitationsGroup message="আপনার ডকুমেন্টেশন আরও গুছিয়ে নিতে নিচের যেকোনো একটি বেছে নিতে পারেন:">
-  <Elicitation label="Daily Work Log এর জন্য একটি টেমপ্লেট তৈরি করুন" query="Create a clean Markdown template for my daily work log as a Network Engineer."/>
-  <Elicitation label="Troubleshooting Report এর জন্য একটি ফরম্যাট দিন" query="Create a structured Markdown template for documenting network troubleshooting and root cause analysis."/>
-</ElicitationsGroup>
